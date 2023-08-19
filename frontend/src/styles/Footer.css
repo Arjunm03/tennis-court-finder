@@ -1,0 +1,30 @@
+.footerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 100px;
+  padding: 25px 150px 50px 150px;
+}
+
+.footerCode {
+  text-align: center;
+  color: white;
+  flex: 1;
+}
+
+.footerName {
+  text-align: center;
+  color: white;
+  flex: 1;
+}
+
+.footerContact {
+  text-align: center;
+  color: white;
+  flex: 1;
+}
+
+.footerHeader {
+  font-size: 1.25em;
+  font-weight: bold;
+}

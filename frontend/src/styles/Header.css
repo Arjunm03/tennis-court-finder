@@ -1,0 +1,17 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  padding: 0 100px;
+}
+
+.header {
+  color: white;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.user {
+  color: white;
+}

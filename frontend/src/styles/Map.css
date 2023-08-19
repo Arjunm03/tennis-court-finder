@@ -1,0 +1,45 @@
+.mapContainer {
+  background-color: whitesmoke;
+  flex: 1;
+  display: flex;
+  padding: 50px;
+}
+
+.results {
+  background-color: white;
+  color: black;
+  aspect-ratio: 1;
+  border-radius: 25px;
+  flex: 1;
+  padding: 25px;
+}
+
+.map {
+  background-color: white;
+  aspect-ratio: 1;
+  border-radius: 25px;
+  flex: 1;
+}
+
+.controls {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: grey;
+  padding-bottom: 10px;
+}
+
+.courts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: space-between;
+}
+
+.formContainer {
+  background-color: whitesmoke;
+  flex: 1;
+  display: flex;
+  padding: 50px;
+}
